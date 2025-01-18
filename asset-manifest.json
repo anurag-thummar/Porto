@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Porto/static/css/main.60e3ae05.css",
+    "main.js": "/Porto/static/js/main.fd53aa7f.js",
+    "index.html": "/Porto/index.html",
+    "main.60e3ae05.css.map": "/Porto/static/css/main.60e3ae05.css.map",
+    "main.fd53aa7f.js.map": "/Porto/static/js/main.fd53aa7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60e3ae05.css",
+    "static/js/main.fd53aa7f.js"
+  ]
+}
