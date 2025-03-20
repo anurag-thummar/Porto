@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Porto/static/css/main.4def87a2.css",
-    "main.js": "/Porto/static/js/main.781dad34.js",
+    "main.css": "/Porto/static/css/main.402efdad.css",
+    "main.js": "/Porto/static/js/main.cd935415.js",
     "static/media/el_soft_shop2_about_us_banner.jpg": "/Porto/static/media/el_soft_shop2_about_us_banner.140896f25d57d828990b.jpg",
     "index.html": "/Porto/index.html",
-    "main.4def87a2.css.map": "/Porto/static/css/main.4def87a2.css.map",
-    "main.781dad34.js.map": "/Porto/static/js/main.781dad34.js.map"
+    "main.402efdad.css.map": "/Porto/static/css/main.402efdad.css.map",
+    "main.cd935415.js.map": "/Porto/static/js/main.cd935415.js.map"
   },
   "entrypoints": [
-    "static/css/main.4def87a2.css",
-    "static/js/main.781dad34.js"
+    "static/css/main.402efdad.css",
+    "static/js/main.cd935415.js"
   ]
 }
